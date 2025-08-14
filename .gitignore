@@ -1,2 +1,4 @@
 _notebook.ipynb
 __pycache__
+.vscode
+.venv
